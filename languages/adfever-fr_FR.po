@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdFever For Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-25 15:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Philippe Le Naour <philippe.le.naour@inteliscent.com>\n"
+"Language-Team: Inteliscent <contact@inteliscent.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress\n"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:19
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:20
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:211
+msgid "Price comparator"
+msgstr "Comparateur de prix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:37
+msgid "Comparator settings updated with success !"
+msgstr "Réglages mis à jour avec succès"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:45
+msgid "AdFever Price Comparator"
+msgstr "Comparateur de prix AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:49
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:141
+msgid "You must enter a valid AID before can customize the settings of AdFever."
+msgstr "Vous devez entrer un AID valide avant de pouvoir éditer les paramètres du plugin AdFever."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:54
+msgid "No checkbox was checked. You have to check at least one universe or category."
+msgstr "Aucun élément sélectionné. Vous devez sélectionner au moins un univers ou une catégorie."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:54
+msgid "No children category checked. You must select at least one category."
+msgstr "Aucune catégorie sélectionnée. Vous devez sélectionner au moins une catégorie "
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:54
+msgid "You can't select only one universe. You must choose at least one category."
+msgstr "Vous ne pouvez pas sélectionner seulement un univers. Vous devez sélectionner au moins une catégorie."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.comparator.php:58
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:111
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:148
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:67
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:68
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:486
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:88
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:273
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:98
+msgid "AdFever"
+msgstr "AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:78
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:79
+msgid "General"
+msgstr "Général"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:101
+msgid "General settings updated with success !"
+msgstr "Paramètres généraux mis à jour avec succès"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:107
+msgid "AdFever Settings"
+msgstr "Réglages AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:180
+msgid "Account"
+msgstr "Compte"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:181
+msgid "Design"
+msgstr "Design"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:182
+msgid "Uninstall"
+msgstr "Désinstallation"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:183
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:184
+msgid "Categories"
+msgstr "Catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:403
+msgid "Useful links"
+msgstr "Liens utiles"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:406
+msgid "Plugin's presentation"
+msgstr "Présentation du plugin"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:407
+msgid "Sign up for AdFever"
+msgstr "S'inscrire sur AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:411
+msgid "My account"
+msgstr "Mon compte"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:412
+msgid "My statistics"
+msgstr "Mes statistiques"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:416
+msgid "Support"
+msgstr "Aide"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:492
+msgid "Deactivate AdFever on this post"
+msgstr "Désactiver AdFever sur ce post"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:545
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:576
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:195
+msgid "All categories"
+msgstr "Toutes les catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:549
+msgid "Selection of categories"
+msgstr "Sélection de catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.php:554
+msgid "No category currently. Strange ! Perhaps your server can't call the AdFever server"
+msgstr "Pas de catégorie sélectionnée"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:28
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:29
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:138
+msgid "Banners"
+msgstr "Bannières"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:88
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:273
+msgid "Add an adfever block"
+msgstr "Ajouter un bloc AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin.shortcode.php:131
+msgid "Banners settings updated with success !"
+msgstr "Réglages de la bannière mis à jour"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin_functions.php:28
+msgid "AdFever plugin has been activated"
+msgstr "Le plugin AdFever For Wordpress a été activé"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/admin_functions.php:30
+#, php-format
+msgid "You need to <a href=\"%s\">setup your AdFever tracking ID</a>"
+msgstr "Vous devez <a href=\"%s\">configurer votre AID</a>"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:126
+msgid "AdFever's plugin enables you to insert a price comparison engine in your website. You will offer a new service to your visitors and benefit from additional sources of revenue. To activate the plugin, please fill in the form below. You will then be able to customize it."
+msgstr "Le plugin AdFever vous permet d'insérer un comparateur de prix au sein de votre site. Vous pourrez ainsi offrir un nouveau service à vos visiteurs tout en bénéficiant de revenus additionnels. Pour activer le plugin, veuillez remplir les informations ci-dessous. Vous pourrez alors personnaliser votre plugin."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:127
+msgid "You need your AdFever's AID to activate your price comparison area. If you do not have any AID, please sign up for AdFever and add your website, you will  shortly receive an email with your AID."
+msgstr "Votre AID AdFever vous permet d'activer votre comparateur de prix. Vous ne disposez pas d’AID AdFever? Inscrivez-vous sur AdFever et ajoutez votre site, vous recevrez un AID sur votre adresse email."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:128
+msgid "Your AdFever's AID"
+msgstr "Votre AID AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:129
+msgid "If you do not have any AdFever'AID, please sign in or create an account on adfever.com"
+msgstr "Si vous ne disposez pas d'un AID AdFever, merci de vous identifier ou créer un compte sur adfever.com"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:130
+msgid "Link target"
+msgstr "Fenêtre de destination"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:130
+msgid "The merchant page will open in a new window"
+msgstr "La page du marchand s'ouvrira dans une nouvelle fenêtre"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:131
+msgid "Referal link"
+msgstr "Lien de parrainage"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:131
+msgid "You have a referal link to adfever site"
+msgstr "Vous aurez un lien de parrainage vers AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:132
+msgid "Nofollow"
+msgstr "No Follow"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:132
+msgid "External link won't be followed by search engines"
+msgstr "Les liens externes ne seront pas suivis par les moteurs de recherche"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:133
+msgid "Activate comparator"
+msgstr "Activer votre comparateur"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:133
+msgid "You will have a price comparator section in your site"
+msgstr "Vous aurez une rubrique de comparaison de prix sur votre site."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:134
+msgid "Prefix of price comparator"
+msgstr "Préfixe du comparateur de prix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:134
+msgid "AdFever Comparator"
+msgstr "Comparateur AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:135
+msgid "This prefix will be used to create the section \"Price comparator\" of your site. The name is automatically optimized for the creation of the internet addresses. A slug is in lower case, without space, accents. <strong>Sometimes, you must update your permalink after change this value</strong>, otherwise the link of you comparator of price will not work..."
+msgstr "Ce prefix servira à  créer la section \"Comparateur de prix\" de votre site. Ce nom est optimisé pour votre url."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:139
+msgid "If you want delete all options and datas created by AdFever, you must check this below input, save options and deactive plugin."
+msgstr "Si vous voulez effacer toutes les options et les données créées par l'extension AdFever, vous devez cocher la case ci-dessous, enregistrer les options et désactiver l'extension."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:140
+msgid "Delete all AdFever's data"
+msgstr "Effacer toutes les données de AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:145
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:168
+msgid "You can customize the AdFever template with theses options."
+msgstr "Vous pouvez personnaliser l'apparence du plugin AdFever sur votre site grâce aux options ci-dessous."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:147
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:170
+msgid "Colors"
+msgstr "Couleurs"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:148
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:171
+msgid "Customize colors"
+msgstr "Personnaliser les couleurs"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:148
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:171
+msgid "By default, the AdFever plugin uses your theme's colors. If you want to manually customize the colors, please activate this option."
+msgstr "Par défaut, le plugin AdFever reprend les couleurs de votre thème. Si vous souhaitez définir les couleurs manuellement, veuillez activer cette option."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:149
+msgid "Text (title, description)"
+msgstr "Texte (titre, description)"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:150
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:177
+msgid "Border table"
+msgstr "Bordure du tableau"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:151
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:180
+msgid "Background header table"
+msgstr "Fond de l'en-tête du tableau"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:152
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:181
+msgid "Text header table"
+msgstr "Texte de l'en-tête du tableau"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:153
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:178
+msgid "Background table"
+msgstr "Fond du tableau"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:154
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:179
+msgid "Text table"
+msgstr "Texte du tableau"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:155
+msgid "Photos & Logos"
+msgstr "Photos et logos"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:157
+msgid "Display title"
+msgstr "Afficher le titre"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:158
+msgid "Display description"
+msgstr "Afficher la description"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:160
+msgid "Display products' picture"
+msgstr "Afficher l'image du produit"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:161
+msgid "Display stores' logos"
+msgstr "Afficher le logo du marchand"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:162
+msgid "Maximum number of retailers to dispay for each product"
+msgstr "Nombre maximum de marchands par produit"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:172
+msgid "Titles"
+msgstr "Titres"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:173
+msgid "Text (description)"
+msgstr "Texte (description)"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:174
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:222
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:232
+msgid "Price"
+msgstr "Prix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:175
+msgid "Navigation links"
+msgstr "Liens de navigation"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:176
+msgid "\"Best price\" border frame"
+msgstr "Bordure \"Meilleur prix\""
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:183
+msgid "Layout"
+msgstr "Mise en page"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:184
+msgid "Number of sub-categories to display per category"
+msgstr "Nombre de sous-catégories à afficher par catégorie"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:185
+msgid "Number of products to display per page"
+msgstr "Nombre de produits à afficher par page"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:186
+msgid "Display top category"
+msgstr "Afficher le top catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:188
+msgid "Display sidebar"
+msgstr "Afficher la sidebar"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:193
+msgid "You can select the categories of products displaying in your price comparator. By default all the categories of products are shown, according to the subject of your site, it maybe relevant to limit the selected categories."
+msgstr "Vous pouvez sélectionner les catégories de produits qui s'affichent dans votre comparateur. Par défaut, toutes les catégories de produits seront présentes. En fonction de la thématique de votre site, il peut être pertinent de limiter les catégories que vous affichez."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:195
+msgid "Categories of your price comparison engine"
+msgstr "Catégories de votre comparateur de prix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:196
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:224
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:234
+msgid "Choice"
+msgstr "Choix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:199
+msgid "You can choose to make your price comparison pages accessible from search engines such as Google or Yahoo!."
+msgstr "Vous pouvez choisir de rende votre comparateur de prix accessible ou non par les moteurs de recherches comme Google ou Yahoo!."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:201
+msgid "Search engine optimization"
+msgstr "Référencement"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:202
+msgid "Allow robots"
+msgstr "Autoriser les robots"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:202
+msgid "Include your price comparison engine in search engine's index."
+msgstr "Inclure votre comparateur dans l'index des moteurs de recherches"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:204
+msgid "Allow to be indexed"
+msgstr "Autoriser l'indexation"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:258
+msgid "Your AID is invalid."
+msgstr "Vote AID n'est pas valide"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:293
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/base.php:299
+msgid "Technology AdFever"
+msgstr "Technologie AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:211
+msgid "Home"
+msgstr "Accueil"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:228
+#, php-format
+msgid "Template file <code>%s</code> are required for this plugin."
+msgstr "Le fichier template <code>%s</code> est nécessaire pour ce plugin."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:468
+msgid "AdFever - Internal error - Impossible to load a template. Please reinstall the plugin."
+msgstr "AdFever - Erreur interne - Impossible de charger le template. Merci de réinstaller le plugin."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:725
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:205
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:726
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:206
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.comparator.php:739
+msgid "home"
+msgstr "home"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:81
+msgid "Internal error."
+msgstr "Erreur interne"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:102
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.shortcode.php:117
+msgid "Retailer"
+msgstr "Marchand"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:103
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.shortcode.php:118
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:104
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.shortcode.php:119
+msgid "Total price (incl.delivery)"
+msgstr "Prix total (port inclus)"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:128
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.shortcode.php:144
+msgid "No retailers for this product."
+msgstr "Pas de marchand pour ce produit"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/client.php:138
+msgid "Technologie AdFever"
+msgstr "Technologie AdFever"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/functions.php:119
+msgid "max"
+msgstr "max"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:99
+msgid "WordPress"
+msgstr "WordPress"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:154
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:190
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:198
+msgid "Search"
+msgstr "Recherche"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:156
+msgid "Browse"
+msgstr "Parcourir"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:161
+msgid "You can choose to insert a product in particular by searching below. If you want to insert random products from a category, please click on the \"Browse\" link above."
+msgstr "Vous pouvez sélectionner un produit en particulier à  insérer sur votre site en effectuant une recherche ci-dessous. Pour insérer un produit au hasard parmi une catégorie de produits, cliquez sur \"Parcourir\" ci-dessus."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:166
+msgid "Browse in categories of AdFever"
+msgstr "Parcourir les catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:184
+msgid "Search for a product"
+msgstr "Rechercher un produit"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:219
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:229
+msgid "Thumb"
+msgstr "Miniature"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:220
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:230
+msgid "Name"
+msgstr "Nom"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:221
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:231
+msgid "Preview"
+msgstr "Pévisualisation"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:223
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:233
+msgid "Category"
+msgstr "Catégorie"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:245
+msgid "See details"
+msgstr "Voir le détail"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:249
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/inc/lightbox.php:259
+msgid "No result for this search. You dont start search ? Start now !"
+msgstr "Pas de résultat pour cette recherche"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:242
+msgid "User has blocked requests through HTTP."
+msgstr "L'utilisateur a bloqué la requête"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:723
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:1341
+msgid "Too many redirects."
+msgstr "Trop de redirections"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:803
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:930
+#, php-format
+msgid "Malformed URL: %s"
+msgstr "URL mal formée: %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:814
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/lib/wp-compat/http.php:987
+#, php-format
+msgid "Could not open handle for fopen() to %s"
+msgstr "Ne peut ouvrir le fichier %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/samples/adfever.php:24
+msgid "You currently use the sample template present into the adfever plugin. You must copy and adapt this file in your theme. Usually, inspire you from the model page.php for build this page."
+msgstr "Vous utilisez actuellement le template d'exemple présent avec le plugin AdFever pour WordPress. Vous devez le copier et l'adapter à votre thème."
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/404.php:20
+msgid "Nothing was found. Are you sure about your address?"
+msgstr "Rien n'a été trouvé, êtes-vous sûr de l'adresse ?"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/bloc.search.php:18
+msgid "What are you shopping for?"
+msgstr "Que recherchez-vous ?"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/bloc.search.php:30
+msgid "&raquo; Search"
+msgstr "&raquo;Recherche"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/bloc.top-categories.php:17
+msgid "Top categories"
+msgstr "Top catégories"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/bloc.top-categories.php:33
+msgid "No top categories actually."
+msgstr "Pas de top catégorie"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/bloc.top-products.php:20
+msgid "Top products"
+msgstr "Top produits"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/category.php:19
+#, php-format
+msgid "Sort by price <a href=\"%1$s\">+</a>/<a href=\"%2$s\">-</a>"
+msgstr "Trier par prix <a href=\"%1$s\">+</a>/<a href=\"%2$s\">-</a>"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/category.php:36
+msgid "Best price"
+msgstr "Meilleur prix"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/category.php:40
+#, php-format
+msgid "At <a href=\"%1$s\">%2$s</a>"
+msgstr "Chez <a href=\"\"%1$s\"\">%2$s</a>"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/category.php:51
+msgid "No products for this category."
+msgstr "Pas de produit dans cette catégorie"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/home.php:53
+msgid "More"
+msgstr "Plus"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/maintenance.php:18
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/maintenance.php:21
+msgid "Price comparison engine under progress"
+msgstr "Comparateur de prix en construction"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/maintenance.php:19
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/maintenance.php:22
+msgid "Discover AdFever's tools to monetize your website"
+msgstr "Découvrez les solutions AdFever pour monétiser votre site"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:26
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:90
+msgid "Data sheet"
+msgstr "Caractéristiques"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:28
+#, php-format
+msgid "Rating : %s"
+msgstr "Note: %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:31
+#, php-format
+msgid "<strong>Price range</strong> : %s - %s"
+msgstr "<strong>Fourchette de prix</strong>: %s - %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:44
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:116
+#, php-format
+msgid "At %s"
+msgstr "Chez %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:47
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/product.php:119
+msgid "&raquo; See offer"
+msgstr "&raquo;Voir l'offre"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/search.php:16
+#, php-format
+msgid "%d results founds"
+msgstr "%d résultats trouvés"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/search.php:19
+#, php-format
+msgid "Your research : %s"
+msgstr "Votre recherche: %s"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/search.php:48
+msgid "At"
+msgstr "Chez"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/search.php:59
+msgid "Sorry, no product matches your search."
+msgstr "Désolé, aucun produit ne correspond à votre recherche"
+
+#: /Users/philippe/projects/wordpress/wordpress/wp-content/plugins/adfever-for-wordpress/templates/univers.php:48
+msgid "No category for this universe"
+msgstr "Pas de catégorie pour cet univers"
+

@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+.block-sidebar {
+	float: right;
+	margin-right: 30px;
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+#tabs {
+	 margin-right: 55px;
+}
+
+body .form-table {
+	width: auto;
+	clear: none;
+}
+
+body div.ui-tabs-panel {
+	height: auto;
+	margin: auto;
+	overflow: none;
+}
+
+#select_categories ul {
+	margin: 5px 0 0 20px;
+}

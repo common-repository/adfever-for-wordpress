@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+body .adfever-container { 
+	position:relative; text-align: left;
+}
+body .adfever-container {
+	<?php if ($current_options['enable_colors']=='1') echo 'color:'.$current_options['text'].';';?>
+}
+body .adfever-container p.adfever-credits { 
+	text-align:right;
+	font-style: italic; 
+	margin-top: 3px; 
+}
+body .adfever-container p.adfever-credits a {<?php if ($current_options['enable_colors']=='1') echo 'color:'.$current_options['text'].';';?>}
+body .adfever-container h5 { 
+	margin-top: 0; 
+}
+body .adfever-container .adfever-img { 
+	float:left; 
+	margin:0 5px 5px 0; 
+	border:1px solid #ccc; 
+}
+body .adfever-container table.adfever-table { 
+	position:relative;
+	width:100%;
+	border-collapse:collapse; 
+}
+body .adfever-container table.adfever-table {<?php if ($current_options['enable_colors']=='1') echo 'border:1px solid'.$current_options['border-table'].';';?>}
+body .adfever-container table.adfever-table tr { }
+body .adfever-container table.adfever-table th { 
+	padding:3px; 
+	text-align: center; 
+	font-weight:700;
+}
+body .adfever-container table.adfever-table th {<?php if ($current_options['enable_colors']=='1') echo 'color:'.$current_options['text-header-table'].'; background:'.$current_options['bg-header-table'].';';?>} 
+body .adfever-container table.adfever-table td {
+	padding:3px; 
+	text-align: center;
+	border-collapse:collapse;
+}
+body .adfever-container table.adfever-table td {<?php
+		if ($current_options['enable_colors']=='1') {
+			echo 'color:'.$current_options['text-table'].';';
+			echo 'background:'.$current_options['bg-table'].';';
+			echo 'border:1px solid'.$current_options['border-table'].';';
+		}
+		?>
+}
+body .adfever-container table.adfever-table td a {
+		<?php
+		if ($current_options['enable_colors']=='1') {
+			echo 'color:'.$current_options['text-table'].';';
+		}
+		?>
+}
+body .adfever-container table.adfever-table thead { }
+body .adfever-container table.adfever-table tbody { }
+body .adfever-container a img { text-decoration: none; }
+		
